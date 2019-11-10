@@ -1,0 +1,39 @@
+{
+	"name": "simple-csv-writer",
+	"version": "1.0.0",
+	"description": "Lightweight CSV writer",
+	"main": "index.js",
+	"scripts": {
+		"dist": "gulp dist",
+		"lint": "eslint ./src"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Kripth/simple-csv-writer.git"
+	},
+	"keywords": [
+		"csv",
+		"write",
+		"writer",
+		"serialize",
+		"serializer",
+		"lightweight"
+	],
+	"author": "Mark White",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Kripth/simple-csv-writer/issues"
+	},
+	"homepage": "https://github.com/Kripth/simple-csv-writer",
+	"devDependencies": {
+		"babel-core": "^6.26.3",
+		"babel-preset-env": "^1.7.0",
+		"gulp": "^4.0.2",
+		"gulp-append-prepend": "^1.0.8",
+		"gulp-babel": "^7.0.1",
+		"gulp-rename": "^1.4.0",
+		"gulp-replace": "^1.0.0",
+		"gulp-sourcemaps": "^2.6.5",
+		"gulp-terser": "^1.2.0"
+	}
+}
