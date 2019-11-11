@@ -3,7 +3,7 @@ simple-csv-writer
 
 Converts a JavaScript array into a CSV string based on to the [RFC 4180 standard](https://tools.ietf.org/html/rfc4180).
 
-![npm](https://img.shields.io/npm/v/simple-csv-writer)
+[![npm](https://img.shields.io/npm/v/simple-csv-writer)](https://npmjs.org/package/simple-csv-writer)
 
 ## Usage
 
